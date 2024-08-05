@@ -1,13 +1,18 @@
 ---
 permalink: /
-title: "科研经历"
+title: "个人介绍"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+我是刘浩鹏，目前在汕头大学攻读计算机硕士学位。我是一名热爱科技与创新的科研工作者和开发人员，致力于通过技术手段解决实际问题，并为科学研究作出贡献。
+
+在我的研究生期间，我参与了多个科研项目，主要研究方向为机器学习。这些项目使我积累了丰富的实验经验和理论知识，尤其在聚类方面取得了一些突破。
+除了学术研究，我还在软件开发和数据分析领域有着丰富的实践经验。我熟练掌握了Java等编程语言，精通Idea等开发工具，并在后端开发中应用这些技能，成功完成了多个项目。这些项目不仅提升了我的技术能力，也增强了我的团队协作和项目管理能力。
+
+在未来，我希望能够继续在软件技术方面深入研究，并将我的研究成果应用到实际问题中，推动科技进步。同时，我也期望能够加入一个充满挑战和机遇的团队，与志同道合的伙伴们共同成长，共创辉煌。
 
 A data-driven personal website
 ======
